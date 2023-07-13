@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @keerthipriyaV
-- 👀 I’m interested in computer learning
-- 🌱 I’m currently pursing bachelor of technology,CSE
--  
+- I'm passionate about learning coding
 
 <!---
 keerthipriyaV/keerthipriyaV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
